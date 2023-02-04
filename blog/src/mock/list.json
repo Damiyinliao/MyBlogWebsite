@@ -1,0 +1,14 @@
+{
+    "artcile":{
+        "count":"articleQty",
+        "unit":"篇",
+        "text":"发布了新的心情，继续加油哦!",
+        "textNull":"快去发布新文章啦"
+    },
+    "comment":{
+        "count":"commentQty",
+        "unit":"条",
+        "text":"过去的时间里，收获了些许陌生的美好。",
+        "textNull":"第一条评论会是谁呢?"
+    }
+}
